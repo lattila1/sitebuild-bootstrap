@@ -9,5 +9,4 @@ To make a Docker image:
 - make a build directory
 - copy index.html into build
 - generate style.css and copy into build
-- run:
-  docker build -t image/name .
+- run: `docker build -t image/name .`
